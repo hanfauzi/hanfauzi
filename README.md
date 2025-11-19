@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Muhammad Hanif Fauzi<br><br>I’m a fresh Full-Stack Web Developer who just completed the Full-Stack Web Development boot camp at Purwadhika Digital Technology School. <br><br>Right now, I'm exploring new opportunities as a Full-Stack Software Engineer — and I'm also open to roles related to frontend, backend, or anything in between.<br> <br>Still learning, building, and excited to grow in the tech world 🚀
+👋 Hi, I'm Muhammad Hanif Fauzi<br><br>I’m a fresh Full-Stack Web Developer who just completed the Full-Stack Web Development boot camp at Purwadhika Digital Technology School. <br><br>Right now, I'm exploring new opportunities as a Full-Stack Software Engineer, and I'm also open to roles related to frontend, backend, or anything in between.<br> <br>Still learning, building, and excited to grow in the tech world 🚀
 
 
 ## 🌐 Socials:
