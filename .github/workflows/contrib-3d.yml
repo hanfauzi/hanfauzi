@@ -1,0 +1,29 @@
+# Turns the contribution graph into a 3D skyline with totals (commits, PRs, stars, languages)
+# and commits the SVGs to profile-3d-contrib/. Uses the built-in GITHUB_TOKEN, no secret needed.
+name: 3D Contributions
+
+on:
+  schedule:
+    - cron: "0 17 * * *" # every day at 00:00 WIB
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "Update 3D contribution graph"; then git push; fi
