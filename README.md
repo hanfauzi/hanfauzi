@@ -77,15 +77,17 @@ I didn't start in tech. I studied Islamic Family Law, got curious about how the 
   <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis,python,docker,git,github,vercel,postman&perline=10" alt="PostgreSQL, MySQL, Prisma, Redis, Python, Docker, Git, GitHub, Vercel, Postman">
 </p>
 
+<!--
+  STATS: hidden until GitHub Actions works again on this account (billing lock).
+  To bring them back: delete this comment's first and last line, so the section below becomes visible.
+
 ### Some numbers
 
-<!-- Refreshed every day by .github/workflows/contrib-3d.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="My contributions as a 3D skyline" width="100%">
 </picture>
 
-<!-- Refreshed every day by .github/workflows/metrics.yml -->
 <img src="./github-metrics.svg" alt="GitHub overview, streaks and top languages" width="100%">
 
 <details>
@@ -100,11 +102,11 @@ I didn't start in tech. I studied Islamic Family Law, got curious about how the 
   <img src="./metrics-habits.svg" alt="My coding habits" width="100%">
 </details>
 
-<!-- Refreshed every day by .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanfauzi/hanfauzi/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/hanfauzi/hanfauzi/output/github-snake.svg" alt="A snake eating my contribution graph" width="100%">
 </picture>
+-->
 
 <p align="center">
   Thanks for stopping by.<br><br>
