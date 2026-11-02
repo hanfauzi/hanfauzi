@@ -1,21 +1,112 @@
-# 💫 About Me:
-👋 Hi, I'm Muhammad Hanif Fauzi<br><br>I’m a fresh Full-Stack Web Developer who just completed the Full-Stack Web Development boot camp at Purwadhika Digital Technology School. <br><br>Right now, I'm exploring new opportunities as a Full-Stack Software Engineer, and I'm also open to roles related to frontend, backend, or anything in between.<br> <br>Still learning, building, and excited to grow in the tech world 🚀
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hnf-dark.svg">
+    <img src="./assets/hnf-light.svg" alt="HNF" height="96">
+  </picture>
+</p>
 
+<h1 align="center">Hey, I'm Hanif</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hnfzii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhaniffauzi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhaniffauzi@gmail.com) 
+<p align="center">
+  A fullstack developer from South Tangerang who likes building things end to end:<br>
+  the part you click, the part that keeps your data, and all the quiet bits in between that stop it from breaking.
+</p>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hanfauzi&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hanfauzi&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanfauzi&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hanfauzi&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://haniffauzi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-296CD8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/muhaniffauzi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:muhaniffauzi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/hnfzii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hanfauzi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### What I'm up to
+
+- Building web platforms for clients at **Notch**, a creative digital agency in Jakarta. The biggest one so far: rebuilding **UNICEF Indonesia's donation platform** with two other engineers. It went live in October 2026.
+- Making side projects that fix my own problems, like a Telegram bot that keeps my spending in check.
+- Always happy to hear about a good opportunity, whether it's remote, hybrid or on-site. Feel free to say hi.
+
+### How I got here
+
+I didn't start in tech. I studied Islamic Family Law, got curious about how the web actually works, and jumped into Purwadhika's fullstack bootcamp in 2025. I came out of it as Best Student of Batch 33, and I've been building ever since.
+
+> *Start small, build it right, and let it grow.*
+
+### Things I've built
+
+<table>
+  <tr>
+    <td width="88" align="center"><img src="./assets/arunika.svg" width="64" alt="Arunika logo"></td>
+    <td>
+      <b>Arunika</b><br>
+      My personal finance buddy on Telegram. I tell it what I spent, it writes it into Google Sheets. The AI is only allowed to draft; nothing is saved until it's signed and double-checked.<br>
+      <sub>Python, SQLite, Telegram Bot API, Google Sheets API, MCP. Private repo, for now.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/hanfauzi/coffe-bar"><img src="./assets/coffebar.svg" width="64" alt="CoffeBar logo"></a></td>
+    <td>
+      <b><a href="https://github.com/hanfauzi/coffe-bar">CoffeBar</a></b><br>
+      Everything a coffee shop needs behind the counter: a cashier, stock that gets used first in, first out, and a Gemini-powered advisor that tells you what to restock next.<br>
+      <sub>React, Vite, NestJS, Prisma, PostgreSQL, Gemini API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://laundr-project.vercel.app/"><img src="./assets/laundr.png" width="64" alt="Laundr logo"></a></td>
+    <td>
+      <b><a href="https://laundr-project.vercel.app/">Laundr</a></b><br>
+      Laundry without leaving the house. Book a pickup, pay with Midtrans, and follow your clothes until they come back clean.<br>
+      <sub>Next.js, Express.js, PostgreSQL, Prisma, Midtrans</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/hanfauzi/mini-project-app"><img src="./assets/tickly.svg" width="64" alt="Tickly logo"></a></td>
+    <td>
+      <b>Tickly</b> (<a href="https://github.com/hanfauzi/mini-project-app">app</a>, <a href="https://github.com/hanfauzi/mini-project-api">api</a>)<br>
+      Buy a ticket, get the email, show up. Organizers get their own dashboard to watch the sales come in.<br>
+      <sub>Next.js, Express.js, PostgreSQL, Tailwind CSS</sub>
+    </td>
+  </tr>
+</table>
+
+### My toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,express,tailwind&perline=8" alt="TypeScript, JavaScript, React, Next.js, NestJS, Node.js, Express, Tailwind CSS"><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis,python,docker,git,github,vercel,postman&perline=10" alt="PostgreSQL, MySQL, Prisma, Redis, Python, Docker, Git, GitHub, Vercel, Postman">
+</p>
+
+### Some numbers
+
+<!-- Refreshed every day by .github/workflows/contrib-3d.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="My contributions as a 3D skyline" width="100%">
+</picture>
+
+<!-- Refreshed every day by .github/workflows/metrics.yml -->
+<img src="./github-metrics.svg" alt="GitHub overview, streaks and top languages" width="100%">
+
+<details>
+  <summary><b>Achievements unlocked</b></summary>
+  <br>
+  <img src="./metrics-achievements.svg" alt="My GitHub achievements" width="100%">
+</details>
+
+<details>
+  <summary><b>When I usually code</b></summary>
+  <br>
+  <img src="./metrics-habits.svg" alt="My coding habits" width="100%">
+</details>
+
+<!-- Refreshed every day by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanfauzi/hanfauzi/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/hanfauzi/hanfauzi/output/github-snake.svg" alt="A snake eating my contribution graph" width="100%">
+</picture>
+
+<p align="center">
+  Thanks for stopping by.<br><br>
+  <img src="https://komarev.com/ghpvc/?username=hanfauzi&label=Visitors&color=296CD8&style=flat-square" alt="Profile visitors">
+</p>
