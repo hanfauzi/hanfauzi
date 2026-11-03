@@ -79,7 +79,7 @@ I didn't start in tech. I studied Islamic Family Law, got curious about how the 
 
 <!--
   STATS: hidden until GitHub Actions works again on this account (billing lock).
-  To bring them back: delete this comment's first and last line, so the section below becomes visible.
+-->  To bring them back: delete this comment's first and last line, so the section below becomes visible.
 
 ### Some numbers
 
@@ -106,7 +106,7 @@ I didn't start in tech. I studied Islamic Family Law, got curious about how the 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanfauzi/hanfauzi/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/hanfauzi/hanfauzi/output/github-snake.svg" alt="A snake eating my contribution graph" width="100%">
 </picture>
--->
+
 
 <p align="center">
   Thanks for stopping by.<br><br>
