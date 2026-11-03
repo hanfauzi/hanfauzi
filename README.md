@@ -77,30 +77,25 @@ I didn't start in tech. I studied Islamic Family Law, got curious about how the 
   <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis,python,docker,git,github,vercel,postman&perline=10" alt="PostgreSQL, MySQL, Prisma, Redis, Python, Docker, Git, GitHub, Vercel, Postman">
 </p>
 
-<!--
-  STATS: hidden until GitHub Actions works again on this account (billing lock).
--->  To bring them back: delete this comment's first and last line, so the section below becomes visible.
-
 ### Some numbers
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="My contributions as a 3D skyline" width="100%">
-</picture>
-
-<img src="./github-metrics.svg" alt="GitHub overview, streaks and top languages" width="100%">
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub overview, streaks and top languages" width="480">
+</p>
 
 <details>
   <summary><b>Achievements unlocked</b></summary>
   <br>
-  <img src="./metrics-achievements.svg" alt="My GitHub achievements" width="100%">
+  <p align="center"><img src="./metrics-achievements.svg" alt="My GitHub achievements" width="480"></p>
 </details>
 
 <details>
   <summary><b>When I usually code</b></summary>
   <br>
-  <img src="./metrics-habits.svg" alt="My coding habits" width="100%">
+  <p align="center"><img src="./metrics-habits.svg" alt="My coding habits" width="480"></p>
 </details>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanfauzi/hanfauzi/output/github-snake-dark.svg">
